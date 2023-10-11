@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/MyProjects/SummerSDET20233">
+        <classes>
+            <class name="com.digital.Main">
+
+            </class>
+            <class name="com.digital.helper.Alerts">
+
+            </class>
+            <class name="com.digital.pages.MainPracticeForm">
+
+            </class>
+            <class name="com.digital.pages.RegistrationPage">
+                <methods>
+                    <include name="fillUpTheRegistrationForm"/>
+                </methods>
+            </class>
+            <class name="com.digital.pages.TextBoxPage">
+                <methods>
+                    <include name="testTextBoxPage"/>
+                </methods>
+            </class>
+            <class name="com.digital.wait.WaitDemo">
+                <methods>
+                    <include name="fluentWaitDemo"/>
+                </methods>
+            </class>
+            <class name="DEMO.ActionDemo">
+                <methods>
+                    <include name="demo123"/>
+                </methods>
+            </class>
+            <class name="DEMO.BasicLocators">
+                <methods>
+                    <include name="byIdTest2"/>
+                    <include name="byTagName"/>
+                    <include name="byClassName"/>
+                    <include name="linkedText"/>
+                    <include name="partialLinkedText"/>
+                    <include name="byName"/>
+                </methods>
+            </class>
+            <class name="DEMO.BrowserWindow">
+                <methods>
+                    <include name="windowsTest"/>
+                </methods>
+            </class>
+            <class name="DEMO.CssDemo">
+                <methods>
+                    <include name="CssDemo1"/>
+                </methods>
+            </class>
+            <class name="DEMO.HomeWork3OrderFaiza">
+                <methods>
+                    <include name="orderFood"/>
+                </methods>
+            </class>
+            <class name="DEMO.JS">
+                <methods>
+                    <include name="demo1"/>
+                </methods>
+            </class>
+            <class name="DEMO.MoveToElementDemo">
+                <methods>
+                    <include name="demo1234"/>
+                </methods>
+            </class>
+            <class name="DEMO.NavigationAndDropDowns">
+                <methods>
+                    <include name="demo1"/>
+                    <include name="demo2"/>
+                </methods>
+            </class>
+            <class name="DEMO.PracticeRandomColor">
+                <methods>
+                    <include name="demo22"/>
+                </methods>
+            </class>
+            <class name="DEMO.PracticeRandomColor2">
+                <methods>
+                    <include name="selectRandomColor"/>
+                </methods>
+            </class>
+            <class name="DEMO.TextBox">
+                <methods>
+                    <include name="FillUpTheFormTest"/>
+                </methods>
+            </class>
+            <class name="DEMO.TextBox2HomeWork">
+                <methods>
+                    <include name="FillUpTheFormTestt"/>
+                </methods>
+            </class>
+            <class name="DEMO.TextBox3">
+                <methods>
+                    <include name="FillUpTheFormTes1"/>
+                </methods>
+            </class>
+            <class name="DEMO.TextBoxHomeWork2">
+                <methods>
+                    <include name="checkbox"/>
+                </methods>
+            </class>
+            <class name="DEMO.XpathDemo">
+                <methods>
+                    <include name="searchPath"/>
+                    <include name="absoluteXpath"/>
+                    <include name="relativeXpath1"/>
+                    <include name="relativeXpath2"/>
+                    <include name="relativeXpath3"/>
+                    <include name="relativeXpath4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
