@@ -1,4 +1,4 @@
 package comtests;
 
-public class Elmira git status{
+public class Elmira {
 }
