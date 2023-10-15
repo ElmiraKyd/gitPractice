@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b13916f3-ac05-4b3e-8702-a3ba63d55563" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/src/test/java/comtests/payment/VisaClassic.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/src/test/java/comtests/payment/VisaClassic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/src/test/java/comtests/payment/VisaElectron.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/src/test/java/comtests/payment/VisaElectron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/src/test/java/comtests/payment/VisaInfinite.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/src/test/java/comtests/payment/VisaInfinite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +34,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/MyProjects/SummerSDET20233"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/MyProjects/SummerSDET20233&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\MyProjects\SummerSDET20233\UI\src\main\resources\drivers" />
